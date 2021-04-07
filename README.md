@@ -1,2 +1,2 @@
-Lucio Morales Demaria
-[a relative link](cv.md)
+## Lucio Morales Demaria
+[Curriculum Vitae](cv.md)
