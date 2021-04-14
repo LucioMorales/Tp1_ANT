@@ -9,7 +9,7 @@ Córdoba, Córdoba
 
 lucio.moralesdemaria@gmail.com 
 
-Radeon
+Nvidia
 
 Dear Atilio: 
 
