@@ -9,7 +9,7 @@ Córdoba, Córdoba
 
 lucio.moralesdemaria@gmail.com 
 
-Google
+Radeon
 
 Dear Atilio: 
 
